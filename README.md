@@ -9,6 +9,8 @@ I create projects with soft- and hardware, here mostly just for fun!
 - 🌱 I’m currently learning how to create a good profile README on github
 - 😄 Pronouns: he/him
 
+--
+I guess everyone should read [this](https://asahilinux.org/docs/project/policies/slop/) :)
 
 <!--
 **olell/olell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
